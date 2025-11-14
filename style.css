@@ -44,7 +44,10 @@ p {
 
 nav {}
 
-li {}
+li {
+    display: inline-block;
+    margin: 30px;
+}
 
 li a {
     font-size: 25px;
